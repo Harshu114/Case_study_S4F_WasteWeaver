@@ -16,7 +16,6 @@ It also outlines the potential for smarter, automated waste segregation solution
 ## 📂 Repository Contents
 
 - `Case_study.ipynb` — Main Jupyter Notebook with data analysis, visualizations, and insights.
-- (Optional: Add links or mention of any datasets used, if applicable.)
 
 ## 🔧 Requirements
 
@@ -27,14 +26,6 @@ To run the notebook, ensure you have the following Python libraries installed:
 - `seaborn`
 - `numpy`
 - `jupyter` or `jupyterlab`
-
-You can install the dependencies using:
-
-```bash
-pip install -r requirements.txt
-````
-
-> *(Create a `requirements.txt` file if you plan to share the environment setup)*
 
 ## 📊 Output Highlights
 
